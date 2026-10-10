@@ -1,0 +1,9 @@
+# Problem Set 1 — The Cost of Living Brief
+
+For ECON 3916, I created a cost-of-living index for an example single-parent household and compared it with official inflation data from FRED.
+
+The household index increased by 34.35% from 2019 to 2024, compared with 22.70% for national CPI. The result depends on the household's spending weights, especially childcare.
+
+The notebook includes the household basket, inflation comparison charts, a missing-data audit, a seasonal-adjustment comparison, and a sensitivity analysis.
+
+Open Econ_3916_PS1.ipynb in Google Colab and run the cells in order. The household prices are illustrative, and the official data comes from FRED.
